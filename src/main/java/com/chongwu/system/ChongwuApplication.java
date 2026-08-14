@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @MapperScan("com.chongwu.system.mapper")
 public class ChongwuApplication {
-
+//ss
     public static void main(String[] args) {
         SpringApplication.run(ChongwuApplication.class, args);
     }
